@@ -1,0 +1,2 @@
+# joosik
+stock program
